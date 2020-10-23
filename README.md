@@ -13,7 +13,4 @@ repo_link.csv
 repos-baseinfo.csv
 repos-contributors.xlsx
 
-If you use this dataset, please cite our paper \note{arxiv link goes here} using the following bibtex. 
-\note{put bib here after uploading paper to arxiv}
-
 If you have any suggestion or comment on the dataset, or collaboration interest, please contact us through covid19.repos.dataset@gmail.com
