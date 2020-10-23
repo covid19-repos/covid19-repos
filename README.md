@@ -1,16 +1,19 @@
-### Hi there 👋
+Ever since the beginning of the outbreak of the COVID-19 pandemic, researchers from interdisciplinary domains have worked together to fight against the crisis. The open source community, plays a vital role in coping with the pandemic which is inherently a collaborative process. Plenty of COVID-19 related datasets, tools, software, deep learning models, are created and shared in research communities with great efforts. However, COVID-19 themed open source projects have not been systematically studied, and we are still unaware how the open source community helps combat COVID-19 in practice. 
 
-<!--
-**covid19-repos/covid19-repos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To fill this void, we take the first step to study COVID-19 themed repositories in GitHub, one of the most popular collaborative platforms. We have collected over 67K COVID-19 themed GitHub repositories till July 2020. We release this dataset to boost future research on adopting open source technologies and resources to rapidly tackle the worldwide public health emergency in practice. For more details, please refer to https://covid19-repos.github.io/. 
 
-Here are some ideas to get you started:
+The dataset includes the following files: 
+\note{use markdown to create bullets for the files below}
+contributor-activity.csv. \note{followed by 1-2 sentence describing what is contained in the file}
+contributor-country.csv
+daily_confirmed.csv
+logs.zip
+readme.zip
+repo_link.csv
+repos-baseinfo.csv
+repos-contributors.xlsx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you use this dataset, please cite our paper \note{arxiv link goes here} using the following bibtex. 
+\note{put bib here after uploading paper to arxiv}
+
+If you have any suggestion or comment on the dataset, or collaboration interest, please contact us through covid19.repos.dataset@gmail.com
