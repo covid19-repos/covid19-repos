@@ -3,8 +3,7 @@ Ever since the beginning of the outbreak of the COVID-19 pandemic, researchers f
 To fill this void, we take the first step to study COVID-19 themed repositories in GitHub, one of the most popular collaborative platforms. We have collected over 67K COVID-19 themed GitHub repositories till July 2020. We release this dataset to boost future research on adopting open source technologies and resources to rapidly tackle the worldwide public health emergency in practice. For more details, please refer to https://covid19-repos.github.io/. 
 
 The dataset includes the following files: 
-\note{use markdown to create bullets for the files below}
-contributor-activity.csv. \note{followed by 1-2 sentence describing what is contained in the file}
+contributor-activity.csv. 
 contributor-country.csv
 daily_confirmed.csv
 logs.zip
